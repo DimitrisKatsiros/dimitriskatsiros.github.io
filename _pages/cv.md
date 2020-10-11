@@ -21,12 +21,12 @@ Software Engineering, Operating Systems, Computer networks
 
 Work experience
 ===============
-* National Centre for Scientific Research “Demokritos”: Machine Learning Intern
+* National Centre for Scientific Research “Demokritos”: Machine Learning Intern (September 2020 - October 2020)
   * [deep_audio_features](https://github.com/tyiannak/deep_audio_features)
   * Duties included: Pytorch implementation of deep audio embedding calculation.
   * Supervisor: Theodore Giannakopoulos
 
-* Google Summer of Code 2019 (Summer Internship): April 2019-September 2019.
+* Google Summer of Code 2019: Summer Internship (April 2019 - September 2019)
   * [eellak/gsoc2019-anonymization](https://github.com/eellak/gsoc2019-anonymization)
   * Duties included: The entire completion of the project.
   * Supervisors: Iraklis Varlamis, Kostas Papadimas, Panos Louridas
@@ -58,7 +58,8 @@ Competitions
 
 Licences & Certifications
 =========================
-* Greek Native Language.
+* Greek |
+  Native Language.
 * Certificate of Proficiency in English |
     University of Michigan
 * Zertificat B2 / B2 Certificate in German |
