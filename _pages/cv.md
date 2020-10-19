@@ -56,10 +56,15 @@ Competitions
     Implemented a forest fire system detection by taking data from fire sensors and camera and
     monitor them from a web site. Technologies used: Javascript, Node-RED.
 
+Courses
+=======
+* Lviv Data Science Summer School Online 2020 [.](https://apps.ucu.edu.ua/en/summerschool-ds/)
+* Become a SuperLearner® 2: Learn Speed Reading & Boost Memory [.](https://www.udemy.com/course/become-a-superlearner-2-speed-reading-memory-accelerated-learning/)
+
 Licences & Certifications
 =========================
 * Greek |
-  Native Language.
+  Native Language
 * Certificate of Proficiency in English |
     University of Michigan
 * Zertificat B2 / B2 Certificate in German |
