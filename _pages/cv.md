@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 =========
-* National Technical University of Athens 2015– (expected graduation in 2020). Diploma (5-year joint
+* National Technical University of Athens 2015– (expected graduation in 2021). Diploma (5-year joint
   degree, 300 ECTS) Electrical & Computer Engineering (ECE). GPA: 7.6/10 (Expected).
   
 * Major: Computer Science: Machine Learning, Algorithms, Speech and Natural Language Processing,
