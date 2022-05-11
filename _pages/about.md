@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Dimitris Katsiros and I am an undergraduate student at National
-Technical University of Athens (NTUA), school of Electrical and Computer Engineering.
+Welcome! My name is Dimitris Katsiros and I am an Electrical and Computer Engineer.
 
-My major is Computer Science, which consinsts of 3 flows: Flow L (Computer Software),
+I studied Electrical and Computer Engineer at National Technical University of Athens (NTUA), 
+where my major was Computer Science, which consinsts of 3 flows: Flow L (Computer Software),
  Flow Y (Computer Systems) and Flow D (Networks). Additionally I was enrolled in courses
-of Flow S (Signals, Control and Robotics).
+of Flow S (Signals, Control and Robotics). 
 
-I am currently doing research on Deep Learning, as part of my diploma thesis,
-examining _emotion driven speaker verification_ .
+My diploma thesis,  _emotion driven speaker verification_ , was a Deep Learning research, investigating the correlation between speaker verification and speech emotion recognition.

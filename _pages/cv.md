@@ -12,36 +12,45 @@ redirect_from:
 
 Education
 =========
-* National Technical University of Athens 2015– (expected graduation in 2021). Diploma (5-year joint
-  degree, 300 ECTS) Electrical & Computer Engineering (ECE). GPA: 7.6/10 (Expected).
-  
-* Major: Computer Science: Machine Learning, Algorithms, Speech and Natural Language Processing,
+* Electrical & Computer Engineering (ECE) at National Technical University of Athens (NTUA) (2015– 2021)
+  * Diploma (5-year joint degree, 300 ECTS).
+  * Major: Computer Science: Machine Learning, Algorithms, Speech and Natural Language Processing,
 Software Engineering, Operating Systems, Computer networks
+  * Diploma Thesis: Emotion Driven Speaker Verification. [Ιnstitutional Repository](https://dspace.lib.ntua.gr/xmlui/handle/123456789/54373)
 
 
 Work experience
 ===============
+* ΕρΓΑ Laboratory of Algebraic and Geometric Algorithms (NKUA): Machine Learning Engineer (April 2021 - Present)
+  * Developed Deep Learning Models for time series forecasting.
+  * Designed and maintained an entire functional production pipeline on MS Azure.
+  * Cooperated with Terna and Inaccess, providing accurate daily energy forecasting for their wind farms.
+  * Advisor: Prof. Ioannis Emiris
+
+* Mandatory Military Service (ΚΕ.Π.Υ.Ε.Σ): IT Specialist (September 2021 - June 2022)
+
 * National Centre for Scientific Research “Demokritos”: Machine Learning Intern (September 2020 - October 2020)
-  * [deep_audio_features](https://github.com/tyiannak/deep_audio_features)
-  * Duties included: Pytorch implementation of deep audio embedding calculation.
+  * Developed an open-source library for audio classification tasks : [deep_audio_features](https://github.com/tyiannak/deep_audio_features)
+  <!-- * Duties included: Pytorch pipeline implementation, deep audio embedding calculation and . -->
   * Supervisor: Theodore Giannakopoulos
 
 * Google Summer of Code 2019: Summer Internship (April 2019 - September 2019)
-  * [eellak/gsoc2019-anonymization](https://github.com/eellak/gsoc2019-anonymization)
-  * Duties included: The entire completion of the project.
+  * Developed an open-source library containing a LibreOffice extension and a web GUI, for legal document anonymization: [eellak/gsoc2019-anonymization](https://github.com/eellak/gsoc2019-anonymization)
+  * The project was presented to the Council of the State (ΣτΕ)
   * Supervisors: Iraklis Varlamis, Kostas Papadimas, Panos Louridas
   
 Skills
 ======
-* Programming Languages: Python, C, C++, Bash, Java, Javascript, Matlab
-* Operating Systems: Linux, MS Windows
-* Web Frameworks: Django, Angular 8
-* Version Control: Git
+* Programming Languages: _Python, C, C++, Bash, Java, Javascript, Matlab_
+* Machine Learning: _PyTorch, TensorFlow Keras, Scikit-Learn_
+* Scientific Programming/Data Analysis: _Matplotlib, NumPy, Pandas, seaborn_
+* Programming Tools: _Docker, OpenCV, LaTeX, Javascript, Django, MySQL, MariaDB_
+* Version Control: _Git_
 
 Projects
 ========
-* Linux device driver development, implementing a Linux kernel module in C.
-* Small blockchain-like application called NoobCash in Python.
+* Linux device driver development, implementing a Linux kernel module in C. [Repository](https://github.com/MichailChatzianastasis/C-development-on-Linux)
+* Small blockchain-like application called NoobCash in Python. [Repository](https://github.com/katakisnik/Distributed-NoobCash)
 * Web app of a "price observatory" system, which allows the users to search and retrieve information
 about product prices as well as to record, post and share them via the application.
 Technologies used: Angular, Java.
