@@ -21,7 +21,7 @@ Software Engineering, Operating Systems, Computer networks
 
 Work experience
 ===============
-* ΕρΓΑ Laboratory of Algebraic and Geometric Algorithms (NKUA): Machine Learning Engineer (April 2021 - Present)
+* Meteorologica \| ΕρΓΑ Laboratory of Algebraic and Geometric Algorithms (NKUA): Machine Learning Engineer (April 2021 - Present)
   * Developed Deep Learning Models for time series forecasting.
   * Designed and maintained an entire functional production pipeline on MS Azure.
   * Cooperated with Terna and Inaccess, providing accurate daily energy forecasting for their wind farms.
